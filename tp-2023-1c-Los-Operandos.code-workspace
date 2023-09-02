@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "./"
+		  },
+		  {
+			"path": "./consola"
+		  },
+		  {
+			"path": "./CPU"
+		  },
+		  {
+			"path": "./fileSystem"
+		  },
+		  {
+			"path": "./memoria"
+		  },
+		  {
+			"path": "./proceso3"
+		  }
+	],
+	"settings": {
+		"files.associations": {
+			"*.h": "c"
+		}
+	}
+}
